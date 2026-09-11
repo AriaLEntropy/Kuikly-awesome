@@ -5,7 +5,7 @@
 | 项目 | 内容 |
 | --- | --- |
 | GitHub ID | [@1250422131](https://github.com/1250422131) |
-| 完成的 Task | Task 1 |
+| 完成的 Task | Task 1、Task 2 |
 
 ## 代码仓库
 
@@ -15,7 +15,7 @@
 
 ## 课程说明
 
-本项目完成了 Task 1，基于 Kuikly 构建 SaiRen 跨端应用，支持 Android、iOS、HarmonyOS 等平台。项目包含股票行情、首页及详情等核心页面，并通过共享代码实现多端一致的业务体验。
+本项目完成了 Task 1 和 Task 2，基于 Kuikly 构建 SaiRen AI 股票应用，支持 Android、iOS、HarmonyOS 等平台。Task 1 实现 AI 股票行情原型，包含首页行情列表、个股详情和 AI 分析与解读模块；Task 2 实现 AI 股票问答应用，包含 AI 聊天主页、AI 返回内容渲染，以及股票/指数详情承接页面。
 
 ## 项目预览
 
