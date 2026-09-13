@@ -30,8 +30,8 @@
 
 ## 功能展示
 
-| AI 聊天 + AI Agent |    个股详情    |
-| :--------------: | :--------: |
-|   AI 聊天与 Agent   |    个股详情    |
-|     **多股对比**     | **自选与个性化** |
-|       多股对比       |     自选     |
+| AI 聊天 + AI Agent | 个股详情 |
+| :---: | :---: |
+| ![AI 聊天与 Agent](https://raw.githubusercontent.com/zeriehan/KuiklyStock/main/docs/screenshots/01-ai-chat-and-agent.jpg) | ![个股详情](https://raw.githubusercontent.com/zeriehan/KuiklyStock/main/docs/screenshots/02-stock-detail.jpg) |
+| **多股对比** | **自选与个性化** |
+| ![多股对比](https://raw.githubusercontent.com/zeriehan/KuiklyStock/main/docs/screenshots/03-compare.jpg) | ![自选](https://raw.githubusercontent.com/zeriehan/KuiklyStock/main/docs/screenshots/04-watchlist.jpg) |
