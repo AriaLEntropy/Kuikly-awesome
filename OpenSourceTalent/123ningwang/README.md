@@ -9,7 +9,7 @@
 
 | 项目 | 内容 |
 | --- | --- |
-| ⭐ GitHub ID | [@123ningwang](https://github.com/123ningwang/kuikly-stock-app)（须与目录名一致） |
+| ⭐ GitHub ID | [@123ningwang](https://github.com/123ningwang)（须与目录名一致） |
 | ⭐ 完成的 Task | Task 2 |
 
 ---
@@ -27,5 +27,3 @@
 ## 课程说明
 
 （本项目完成了 Task 2，基于Kuikly 2.7.0 + KMP开发跨平台股票应用，实现Mock股票数据展示，使用PocketBase存储数据，一套代码可运行在Android、iOS平台。）
-
-示例：本项目完成了 Task 1，基于 Kuikly 实现了一个跨端待办清单应用，支持待办的新增、编辑、删除与本地持久化，一套代码同时运行在 Android、iOS 和 HarmonyOS 上。
