@@ -13,9 +13,9 @@
 | --- | --- |
 | 仓库地址 | [Zhendon-06/StockChat](https://github.com/Zhendon-06/StockChat) |
 | Android Release APK | [StockChat-1.0-release-debugsigned.apk](https://github.com/Zhendon-06/StockChat/raw/refs/heads/main/docs/release/StockChat-1.0-release-debugsigned.apk) |
-| Android APK SHA-256 | `627564647a6cca14c63e502ea5eaaf87d9f1d2e11e9b953dc14b2cb9a2cb1945` |
+| Android APK SHA-256 | `ab132c0d8b4a8abd1c79f174bf75928268c9ad975d9ea49564d52ef2fb4f49f4` |
 
-> APK 为调试签名的 Release 包，仅用于评审和体验；包内不含 API Key。iOS 与 OpenHarmony 提供实际运行演示视频，评审可直接按视频检查三端效果；源码中的构建说明见项目 README。
+> APK 为调试签名的 Release 包，已预置评审所需配置，下载后可直接体验 AI；仅用于本次评审。iOS 与 OpenHarmony 提供实际运行演示视频，评审可直接按视频检查三端效果；源码中的构建说明见项目 README。
 
 ## 课程说明
 
